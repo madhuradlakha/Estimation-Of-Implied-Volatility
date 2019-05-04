@@ -9,5 +9,7 @@ Estimate Implied Volatility using:
 Sample Output:
 
 Time Taken using Interval Bisection: 4.76656e-06
+
 Time Taken using Newton-Raphson: 1.75343e-06
+
 Time Taken using Brent's Method: 9.5703e-07
